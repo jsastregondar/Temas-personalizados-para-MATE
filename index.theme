@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Theme Black OK
+Type=X-GNOME-Metatheme
+Comment=Tema negro con correcciones
+
+[X-GNOME-Metatheme]
+GtkTheme=Adwaita-dark
+MetacityTheme=Blue-Submarine-border
+IconTheme=ePapirus-Dark
+GtkColorScheme=tooltip_fg_color:#ffffff,tooltip_bg_color:#343434
+CursorTheme=mate-black
+CursorSize=32
+NotificationTheme=nodoka
+BackgroundImage=/home/jaume/.fondoescritorio.jpg
